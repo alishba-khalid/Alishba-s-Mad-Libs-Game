@@ -17,25 +17,7 @@ Simple Command-Line Interface: Easy to run and play for users of all technical l
 
 Robust Code Structure: Organized into functions for collecting input, generating the story, and running the main game loop, making it simple to extend or modify.
 
-How to Play
-To play the game, you will need to have Python 3 installed on your computer.
 
-Clone the Repository: Download the project files to your local machine.
-
-Bash
-
-git clone https://github.com/alishba-khalid/mad-libs-game.py
-Navigate to the Project Directory:
-
-Bash
-
-cd mad-libs-game
-Run the Script: Execute the main Python file from your terminal.
-
-Bash
-
-python mad_libs_game.py
-Follow the Prompts: The game will guide you through entering the necessary words. Once all words are provided, your unique story will be printed to the screen.
 
 Technologies Used
 Python 3
