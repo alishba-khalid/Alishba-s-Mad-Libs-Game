@@ -24,7 +24,7 @@ Clone the Repository: Download the project files to your local machine.
 
 Bash
 
-git clone https://github.com/YourGitHubUsername/mad-libs-game.git
+git clone https://github.com/alishba-khalid/mad-libs-game.git
 Navigate to the Project Directory:
 
 Bash
